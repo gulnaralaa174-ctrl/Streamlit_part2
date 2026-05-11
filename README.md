@@ -109,8 +109,15 @@ streamlit run app.py
 
 Отфильтрованные данные можно скачать в формате CSV с помощью кнопки «Скачать CSV».
 
-График изменения температуры по дням:
+**График изменения температуры по дням:**
 
 <img width="768" height="432" alt="Динамика температуры" src="https://github.com/user-attachments/assets/4eed87af-d3a1-41a7-b2fe-8390640e7084" />
+
+**Сравнение средней температуры по городам:**
+<img width="768" height="432" alt="Средняя температура по городам" src="https://github.com/user-attachments/assets/2d5affdf-b73d-4754-8446-8d725090a985" />
+
+**Распределение уровней осадков:**
+
+<img width="768" height="432" alt="Распределение осадков" src="https://github.com/user-attachments/assets/385d92e1-67e9-4099-bb1b-ce1a4ff3dd75" />
 
 
